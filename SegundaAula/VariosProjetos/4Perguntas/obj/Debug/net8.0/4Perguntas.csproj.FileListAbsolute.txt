@@ -1,0 +1,14 @@
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\4Perguntas\bin\Debug\net8.0\4Perguntas.exe
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\4Perguntas\bin\Debug\net8.0\4Perguntas.deps.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\4Perguntas\bin\Debug\net8.0\4Perguntas.runtimeconfig.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\4Perguntas\bin\Debug\net8.0\4Perguntas.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\4Perguntas\bin\Debug\net8.0\4Perguntas.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\4Perguntas\obj\Debug\net8.0\4Perguntas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\4Perguntas\obj\Debug\net8.0\4Perguntas.AssemblyInfoInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\4Perguntas\obj\Debug\net8.0\4Perguntas.AssemblyInfo.cs
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\4Perguntas\obj\Debug\net8.0\4Perguntas.csproj.CoreCompileInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\4Perguntas\obj\Debug\net8.0\4Perguntas.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\4Perguntas\obj\Debug\net8.0\refint\4Perguntas.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\4Perguntas\obj\Debug\net8.0\4Perguntas.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\4Perguntas\obj\Debug\net8.0\4Perguntas.genruntimeconfig.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\4Perguntas\obj\Debug\net8.0\ref\4Perguntas.dll

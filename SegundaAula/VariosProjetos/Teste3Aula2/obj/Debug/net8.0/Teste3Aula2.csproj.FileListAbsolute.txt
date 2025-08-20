@@ -1,0 +1,14 @@
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste3Aula2\bin\Debug\net8.0\Teste3Aula2.exe
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste3Aula2\bin\Debug\net8.0\Teste3Aula2.deps.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste3Aula2\bin\Debug\net8.0\Teste3Aula2.runtimeconfig.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste3Aula2\bin\Debug\net8.0\Teste3Aula2.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste3Aula2\bin\Debug\net8.0\Teste3Aula2.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste3Aula2\obj\Debug\net8.0\Teste3Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste3Aula2\obj\Debug\net8.0\Teste3Aula2.AssemblyInfoInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste3Aula2\obj\Debug\net8.0\Teste3Aula2.AssemblyInfo.cs
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste3Aula2\obj\Debug\net8.0\Teste3Aula2.csproj.CoreCompileInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste3Aula2\obj\Debug\net8.0\Teste3Aula2.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste3Aula2\obj\Debug\net8.0\refint\Teste3Aula2.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste3Aula2\obj\Debug\net8.0\Teste3Aula2.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste3Aula2\obj\Debug\net8.0\Teste3Aula2.genruntimeconfig.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste3Aula2\obj\Debug\net8.0\ref\Teste3Aula2.dll

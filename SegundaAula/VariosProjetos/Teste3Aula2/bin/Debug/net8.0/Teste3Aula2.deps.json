@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Teste3Aula2/1.0.0": {
+        "runtime": {
+          "Teste3Aula2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teste3Aula2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

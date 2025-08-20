@@ -1,0 +1,14 @@
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\AtividadeDePortifolio\bin\Debug\net8.0\AtividadeDePortifolio.exe
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\AtividadeDePortifolio\bin\Debug\net8.0\AtividadeDePortifolio.deps.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\AtividadeDePortifolio\bin\Debug\net8.0\AtividadeDePortifolio.runtimeconfig.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\AtividadeDePortifolio\bin\Debug\net8.0\AtividadeDePortifolio.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\AtividadeDePortifolio\bin\Debug\net8.0\AtividadeDePortifolio.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\AtividadeDePortifolio\obj\Debug\net8.0\AtividadeDePortifolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\AtividadeDePortifolio\obj\Debug\net8.0\AtividadeDePortifolio.AssemblyInfoInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\AtividadeDePortifolio\obj\Debug\net8.0\AtividadeDePortifolio.AssemblyInfo.cs
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\AtividadeDePortifolio\obj\Debug\net8.0\AtividadeDePortifolio.csproj.CoreCompileInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\AtividadeDePortifolio\obj\Debug\net8.0\AtividadeDePortifolio.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\AtividadeDePortifolio\obj\Debug\net8.0\refint\AtividadeDePortifolio.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\AtividadeDePortifolio\obj\Debug\net8.0\AtividadeDePortifolio.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\AtividadeDePortifolio\obj\Debug\net8.0\AtividadeDePortifolio.genruntimeconfig.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\AtividadeDePortifolio\obj\Debug\net8.0\ref\AtividadeDePortifolio.dll

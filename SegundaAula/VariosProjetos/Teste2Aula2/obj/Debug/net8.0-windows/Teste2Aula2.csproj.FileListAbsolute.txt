@@ -1,0 +1,17 @@
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\bin\Debug\net8.0-windows\Teste2Aula2.exe
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\bin\Debug\net8.0-windows\Teste2Aula2.deps.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\bin\Debug\net8.0-windows\Teste2Aula2.runtimeconfig.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\bin\Debug\net8.0-windows\Teste2Aula2.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\bin\Debug\net8.0-windows\Teste2Aula2.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\obj\Debug\net8.0-windows\Teste2Aula2.Form1.resources
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\obj\Debug\net8.0-windows\Teste2Aula2.Properties.Resources.resources
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\obj\Debug\net8.0-windows\Teste2Aula2.csproj.GenerateResource.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\obj\Debug\net8.0-windows\Teste2Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\obj\Debug\net8.0-windows\Teste2Aula2.AssemblyInfoInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\obj\Debug\net8.0-windows\Teste2Aula2.AssemblyInfo.cs
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\obj\Debug\net8.0-windows\Teste2Aula2.csproj.CoreCompileInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\obj\Debug\net8.0-windows\Teste2Aula2.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\obj\Debug\net8.0-windows\refint\Teste2Aula2.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\obj\Debug\net8.0-windows\Teste2Aula2.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\obj\Debug\net8.0-windows\Teste2Aula2.genruntimeconfig.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\Teste2Aula2\obj\Debug\net8.0-windows\ref\Teste2Aula2.dll

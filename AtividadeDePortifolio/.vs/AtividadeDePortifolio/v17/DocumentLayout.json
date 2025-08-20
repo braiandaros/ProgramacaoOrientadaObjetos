@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\AtividadeDePortifolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15AE608D-030B-47B8-89DE-49D99D811479}|AtividadeDePortifolio\\AtividadeDePortifolio.csproj|c:\\users\\ceet giuseppe alto\u00E9\\desktop\\braian e raissa\\atividades\\3\u00B0 semestre\\poo\\atividadedeportifolio\\atividadedeportifolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AE608D-030B-47B8-89DE-49D99D811479}|AtividadeDePortifolio\\AtividadeDePortifolio.csproj|solutionrelative:atividadedeportifolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\AtividadeDePortifolio\\AtividadeDePortifolio\\Program.cs",
+              "RelativeDocumentMoniker": "AtividadeDePortifolio\\Program.cs",
+              "ToolTip": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\AtividadeDePortifolio\\AtividadeDePortifolio\\Program.cs",
+              "RelativeToolTip": "AtividadeDePortifolio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T23:44:15.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

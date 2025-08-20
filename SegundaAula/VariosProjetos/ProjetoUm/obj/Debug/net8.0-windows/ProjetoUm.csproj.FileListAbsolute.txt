@@ -1,0 +1,16 @@
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\bin\Debug\net8.0-windows\ProjetoUm.exe
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\bin\Debug\net8.0-windows\ProjetoUm.deps.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\bin\Debug\net8.0-windows\ProjetoUm.runtimeconfig.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\bin\Debug\net8.0-windows\ProjetoUm.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\bin\Debug\net8.0-windows\ProjetoUm.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\obj\Debug\net8.0-windows\ProjetoUm.Form1.resources
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\obj\Debug\net8.0-windows\ProjetoUm.csproj.GenerateResource.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\obj\Debug\net8.0-windows\ProjetoUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\obj\Debug\net8.0-windows\ProjetoUm.AssemblyInfoInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\obj\Debug\net8.0-windows\ProjetoUm.AssemblyInfo.cs
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\obj\Debug\net8.0-windows\ProjetoUm.csproj.CoreCompileInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\obj\Debug\net8.0-windows\ProjetoUm.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\obj\Debug\net8.0-windows\refint\ProjetoUm.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\obj\Debug\net8.0-windows\ProjetoUm.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\obj\Debug\net8.0-windows\ProjetoUm.genruntimeconfig.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ProjetoUm\obj\Debug\net8.0-windows\ref\ProjetoUm.dll
