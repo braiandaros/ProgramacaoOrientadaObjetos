@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\SegundaAula\\VariosProjetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68209612-FE83-4BA5-AA8D-54BAA5CB5C00}|4Perguntas\\4Perguntas.csproj|c:\\users\\ceet giuseppe alto\u00E9\\desktop\\braian e raissa\\atividades\\3\u00B0 semestre\\poo\\segundaaula\\variosprojetos\\4perguntas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68209612-FE83-4BA5-AA8D-54BAA5CB5C00}|4Perguntas\\4Perguntas.csproj|solutionrelative:4perguntas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2E05D14-4D9C-45FC-961B-0ABCDF1EF589}|MediaDoAluno\\MediaDoAluno.csproj|c:\\users\\ceet giuseppe alto\u00E9\\desktop\\braian e raissa\\atividades\\3\u00B0 semestre\\poo\\segundaaula\\variosprojetos\\mediadoaluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E05D14-4D9C-45FC-961B-0ABCDF1EF589}|MediaDoAluno\\MediaDoAluno.csproj|solutionrelative:mediadoaluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC5775A6-1E8B-48B6-A06C-FCC211247D4A}|Teste3Aula2\\Teste3Aula2.csproj|c:\\users\\ceet giuseppe alto\u00E9\\desktop\\braian e raissa\\atividades\\3\u00B0 semestre\\poo\\segundaaula\\variosprojetos\\teste3aula2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC5775A6-1E8B-48B6-A06C-FCC211247D4A}|Teste3Aula2\\Teste3Aula2.csproj|solutionrelative:teste3aula2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68209612-FE83-4BA5-AA8D-54BAA5CB5C00}|4Perguntas\\4Perguntas.csproj|c:\\users\\ceet giuseppe alto\u00E9\\desktop\\braian e raissa\\atividades\\3\u00B0 semestre\\poo\\segundaaula\\variosprojetos\\4perguntas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68209612-FE83-4BA5-AA8D-54BAA5CB5C00}|4Perguntas\\4Perguntas.csproj|solutionrelative:4perguntas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\SegundaAula\\VariosProjetos\\4Perguntas\\Program.cs",
               "RelativeDocumentMoniker": "4Perguntas\\Program.cs",
               "ToolTip": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\SegundaAula\\VariosProjetos\\4Perguntas\\Program.cs",
               "RelativeToolTip": "4Perguntas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T22:39:05.483Z",
+              "WhenOpened": "2025-08-22T23:33:22.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\SegundaAula\\VariosProjetos\\Teste3Aula2\\Program.cs",
-              "RelativeDocumentMoniker": "Teste3Aula2\\Program.cs",
-              "ToolTip": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\SegundaAula\\VariosProjetos\\Teste3Aula2\\Program.cs",
-              "RelativeToolTip": "Teste3Aula2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\SegundaAula\\VariosProjetos\\MediaDoAluno\\Program.cs",
+              "RelativeDocumentMoniker": "MediaDoAluno\\Program.cs",
+              "ToolTip": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\SegundaAula\\VariosProjetos\\MediaDoAluno\\Program.cs*",
+              "RelativeToolTip": "MediaDoAluno\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T23:45:28.43Z",
+              "WhenOpened": "2025-08-22T23:27:29.619Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\bin\Debug\net8.0\MediaDoAluno.exe
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\bin\Debug\net8.0\MediaDoAluno.deps.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\bin\Debug\net8.0\MediaDoAluno.runtimeconfig.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\bin\Debug\net8.0\MediaDoAluno.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\bin\Debug\net8.0\MediaDoAluno.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\obj\Debug\net8.0\MediaDoAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\obj\Debug\net8.0\MediaDoAluno.AssemblyInfoInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\obj\Debug\net8.0\MediaDoAluno.AssemblyInfo.cs
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\obj\Debug\net8.0\MediaDoAluno.csproj.CoreCompileInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\obj\Debug\net8.0\MediaDoAluno.sourcelink.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\obj\Debug\net8.0\MediaDoAluno.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\obj\Debug\net8.0\refint\MediaDoAluno.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\obj\Debug\net8.0\MediaDoAluno.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\obj\Debug\net8.0\MediaDoAluno.genruntimeconfig.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\MediaDoAluno\obj\Debug\net8.0\ref\MediaDoAluno.dll

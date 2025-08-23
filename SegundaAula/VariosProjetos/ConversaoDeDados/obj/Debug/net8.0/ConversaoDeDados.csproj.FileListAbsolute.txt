@@ -1,0 +1,15 @@
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\bin\Debug\net8.0\ConversaoDeDados.exe
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\bin\Debug\net8.0\ConversaoDeDados.deps.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\bin\Debug\net8.0\ConversaoDeDados.runtimeconfig.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\bin\Debug\net8.0\ConversaoDeDados.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\bin\Debug\net8.0\ConversaoDeDados.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\obj\Debug\net8.0\ConversaoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\obj\Debug\net8.0\ConversaoDeDados.AssemblyInfoInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\obj\Debug\net8.0\ConversaoDeDados.AssemblyInfo.cs
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\obj\Debug\net8.0\ConversaoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\obj\Debug\net8.0\ConversaoDeDados.sourcelink.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\obj\Debug\net8.0\ConversaoDeDados.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\obj\Debug\net8.0\refint\ConversaoDeDados.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\obj\Debug\net8.0\ConversaoDeDados.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\obj\Debug\net8.0\ConversaoDeDados.genruntimeconfig.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\SegundaAula\VariosProjetos\ConversaoDeDados\obj\Debug\net8.0\ref\ConversaoDeDados.dll
