@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\AtividadeDePortifolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E1A77E6-CC23-4A84-9131-89E19ED046DC}|PedidoDaLanchonete\\PedidoDaLanchonete.csproj|c:\\users\\ceet giuseppe alto\u00E9\\desktop\\braian e raissa\\atividades\\3\u00B0 semestre\\poo\\atividadedeportifolio\\pedidodalanchonete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1A77E6-CC23-4A84-9131-89E19ED046DC}|PedidoDaLanchonete\\PedidoDaLanchonete.csproj|solutionrelative:pedidodalanchonete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\AtividadeDePortifolio\\MenuDeOpcoes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MenuDeOpcoes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{15AE608D-030B-47B8-89DE-49D99D811479}|AtividadeDePortifolio\\AtividadeDePortifolio.csproj|c:\\users\\ceet giuseppe alto\u00E9\\desktop\\braian e raissa\\atividades\\3\u00B0 semestre\\poo\\atividadedeportifolio\\atividadedeportifolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AE608D-030B-47B8-89DE-49D99D811479}|AtividadeDePortifolio\\AtividadeDePortifolio.csproj|solutionrelative:atividadedeportifolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,14 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\AtividadeDePortifolio\\PedidoDaLanchonete\\Program.cs",
+              "RelativeDocumentMoniker": "PedidoDaLanchonete\\Program.cs",
+              "ToolTip": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\AtividadeDePortifolio\\PedidoDaLanchonete\\Program.cs*",
+              "RelativeToolTip": "PedidoDaLanchonete\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:48:23.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\AtividadeDePortifolio\\MenuDeOpcoes\\Program.cs",
+              "RelativeDocumentMoniker": "MenuDeOpcoes\\Program.cs",
+              "ToolTip": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\AtividadeDePortifolio\\MenuDeOpcoes\\Program.cs",
+              "RelativeToolTip": "MenuDeOpcoes\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:21:17.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\AtividadeDePortifolio\\AtividadeDePortifolio\\Program.cs",
               "RelativeDocumentMoniker": "AtividadeDePortifolio\\Program.cs",
               "ToolTip": "C:\\Users\\CEET Giuseppe Alto\u00E9\\Desktop\\Braian e raissa\\atividades\\3\u00B0 semestre\\POO\\AtividadeDePortifolio\\AtividadeDePortifolio\\Program.cs",
               "RelativeToolTip": "AtividadeDePortifolio\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T23:44:15.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T23:44:15.527Z"
             }
           ]
         }

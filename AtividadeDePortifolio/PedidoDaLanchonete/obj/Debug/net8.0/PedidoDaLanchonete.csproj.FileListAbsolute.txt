@@ -1,0 +1,15 @@
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\bin\Debug\net8.0\PedidoDaLanchonete.exe
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\bin\Debug\net8.0\PedidoDaLanchonete.deps.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\bin\Debug\net8.0\PedidoDaLanchonete.runtimeconfig.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\bin\Debug\net8.0\PedidoDaLanchonete.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\bin\Debug\net8.0\PedidoDaLanchonete.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\obj\Debug\net8.0\PedidoDaLanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\obj\Debug\net8.0\PedidoDaLanchonete.AssemblyInfoInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\obj\Debug\net8.0\PedidoDaLanchonete.AssemblyInfo.cs
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\obj\Debug\net8.0\PedidoDaLanchonete.csproj.CoreCompileInputs.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\obj\Debug\net8.0\PedidoDaLanchonete.sourcelink.json
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\obj\Debug\net8.0\PedidoDaLanchonete.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\obj\Debug\net8.0\refint\PedidoDaLanchonete.dll
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\obj\Debug\net8.0\PedidoDaLanchonete.pdb
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\obj\Debug\net8.0\PedidoDaLanchonete.genruntimeconfig.cache
+C:\Users\CEET Giuseppe Altoé\Desktop\Braian e raissa\atividades\3° semestre\POO\AtividadeDePortifolio\PedidoDaLanchonete\obj\Debug\net8.0\ref\PedidoDaLanchonete.dll
