@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PedidoDaLanchonete")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdc402069e4156d3ec94f5408dc41120b7be395a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e76b07eb0b3f7f86f23c5388c36b71802801c704")]
 [assembly: System.Reflection.AssemblyProductAttribute("PedidoDaLanchonete")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PedidoDaLanchonete")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
